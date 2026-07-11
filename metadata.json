@@ -1,0 +1,6 @@
+{
+  "name": "বাজার হিসাব",
+  "description": "বাজার হিসাব (Bangla Market Manager) - একটি সম্পূর্ণ অফলাইন বাজার ও মিল হিসাব অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
